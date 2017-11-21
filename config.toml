@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://bernas.gitlab.io"
 languageCode = "en-US"
 title = "João Costa"
 # Enable comments by entering your Disqus shortname
