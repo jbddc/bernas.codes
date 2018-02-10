@@ -149,7 +149,7 @@ html, body {
   transition: all .4s ease;
 }
 .social-links li a:hover {
-  color: #000;
+  color: #0289ff;
 }
 .avatar {
   padding-top: 5%;

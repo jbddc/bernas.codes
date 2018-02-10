@@ -21,12 +21,15 @@ theme = "hugo-sustain"
 
 [params.social]
   Github        = "jbddc"
-  Gitlab        = "bernas"
+  Gitlab        = ""
   Twitter       = "jbddc"
-  Email         = "jbernardoddc@gmail.com"
+  Email         = ""
   LinkedIn      = ""
   Stackoverflow = ""
-  Bitcoin       = "3MSxhiBe2eSAJRrwTXwMPjTChTPXMNeCmG"
+  Bitcoin       = ""
+  Ethereum      = "0x6d1f59dDC82015793Aead51aC996ef2D418bdE2c"
+  Steam         = "jbddc"
+  Spotify       = "bernardoslr"
 
 ## Main Menu
 [[menu.main]]

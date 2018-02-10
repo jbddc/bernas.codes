@@ -1,6 +1,6 @@
 name: Projects
 source:
-  - icon: fa fa-globe
+  - icon: fas fa-globe
     title: WattCharger
     description: A college-born project that focus on, and attempts to solve, the problems that an EV owner faces everyday.
     url: https://wattcharger.eu
