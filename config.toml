@@ -1,6 +1,6 @@
 baseurl = "https://bernas.gitlab.io/"
 languageCode = "en-US"
-title = "João Costa"
+title = "JB"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
@@ -12,7 +12,7 @@ theme = "hugo-sustain"
 
 [params]
   avatar = "profile.jpg"
-  author = "João Costa"
+  author = "João Bernardo Costa"
   description = "Describe your website"
 
   # Custom assets can be linked with their paths relative to static/
