@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/bernas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bernas.gitlab.io
+  * I am bernas (https://keybase.io/bernas) on keybase.
+  * I have a public key ASCOqNwkTSwcG4xTzLZMyJPPdP5bhWAHTpx7fcZ9iQUJTwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208ea8dc244d2c1c1b8c53ccb64cc893cf74fe5b8560074e9c7b7dc67d8905094f0a",
+      "host": "keybase.io",
+      "kid": "01208ea8dc244d2c1c1b8c53ccb64cc893cf74fe5b8560074e9c7b7dc67d8905094f0a",
+      "uid": "f6cc27783f4255f6dcd94d74b633b719",
+      "username": "bernas"
+    },
+    "merkle_root": {
+      "ctime": 1519662079,
+      "hash": "4a9edbd1787caf6c3836637c9c47e7bcdac37918c92c275a9fad37f96bec4a260604027d89126205102c8696eb70e97355fd29c8b8fba172ba16b3c1f1d5addb",
+      "hash_meta": "3ec112fe8ccde554f630d1a8afa5c32f1598c73a26f4ccfb0d969b4f57ae163d",
+      "seqno": 2154794
+    },
+    "service": {
+      "hostname": "bernas.gitlab.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.44"
+  },
+  "ctime": 1519662087,
+  "expire_in": 504576000,
+  "prev": "a67efa0aea5f3763210f591e5992f5f8cbaab19ce775fa9856d93326057539f3",
+  "seqno": 36,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjqjcJE0sHBuMU8y2TMiTz3T+W4VgB06ce33GfYkFCU8Kp3BheWxvYWTFA0d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOGVhOGRjMjQ0ZDJjMWMxYjhjNTNjY2I2NGNjODkzY2Y3NGZlNWI4NTYwMDc0ZTljN2I3ZGM2N2Q4OTA1MDk0ZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOGVhOGRjMjQ0ZDJjMWMxYjhjNTNjY2I2NGNjODkzY2Y3NGZlNWI4NTYwMDc0ZTljN2I3ZGM2N2Q4OTA1MDk0ZjBhIiwidWlkIjoiZjZjYzI3NzgzZjQyNTVmNmRjZDk0ZDc0YjYzM2I3MTkiLCJ1c2VybmFtZSI6ImJlcm5hcyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxOTY2MjA3OSwiaGFzaCI6IjRhOWVkYmQxNzg3Y2FmNmMzODM2NjM3YzljNDdlN2JjZGFjMzc5MThjOTJjMjc1YTlmYWQzN2Y5NmJlYzRhMjYwNjA0MDI3ZDg5MTI2MjA1MTAyYzg2OTZlYjcwZTk3MzU1ZmQyOWM4YjhmYmExNzJiYTE2YjNjMWYxZDVhZGRiIiwiaGFzaF9tZXRhIjoiM2VjMTEyZmU4Y2NkZTU1NGY2MzBkMWE4YWZhNWMzMmYxNTk4YzczYTI2ZjRjY2ZiMGQ5NjliNGY1N2FlMTYzZCIsInNlcW5vIjoyMTU0Nzk0fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImJlcm5hcy5naXRsYWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40NCJ9LCJjdGltZSI6MTUxOTY2MjA4NywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJhNjdlZmEwYWVhNWYzNzYzMjEwZjU5MWU1OTkyZjVmOGNiYWFiMTljZTc3NWZhOTg1NmQ5MzMyNjA1NzUzOWYzIiwic2Vxbm8iOjM2LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQCnzwgsJBxKRi/XU1ZvdBK1ZwJ8oujVpjUgznr+nQI9SrNVMatz1gue6fGyKFjkVTzrSTsv4uItDJol/URZtIQ+oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDARLPfNP65G69/7NmRFr1F8VdIyIBkLAX2QxlNXCPo46N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bernas
+
+==================================================================
