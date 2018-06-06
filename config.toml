@@ -12,7 +12,7 @@ pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
 
 [params] # theme parameters
-    author = "João Costa" # Author's name.
+    author = "João Bernardo Costa" # Author's name.
     info = "Software Engineer" # Author's job title or info.
     description = "Bernas's personal website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
