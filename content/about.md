@@ -6,7 +6,7 @@ slug = "about"
 * MSc Informatics Engineering Student @ University Of Minho, Portugal
 * ❤️ functional programming (Haskell, Elm, Purescript, Clojure)
 * Computer hardware enthusiast, from a very young age 🔧
-* Sports fan (COYG)
+* Sports fan 🏀🏈⚽️⚾️ (COYG)
 
 ## Contact
 
