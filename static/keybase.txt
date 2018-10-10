@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bernas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bernas.engineer
+  * I am bernas (https://keybase.io/bernas) on keybase.
+  * I have a public key ASDPtgu7guFVStPa_8wXSAYDTXG3nO_OQ8pt2qa5TvpR-Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208ea8dc244d2c1c1b8c53ccb64cc893cf74fe5b8560074e9c7b7dc67d8905094f0a",
+      "host": "keybase.io",
+      "kid": "0120cfb60bbb82e1554ad3daffcc174806034d71b79cefce43ca6ddaa6b94efa51f80a",
+      "uid": "f6cc27783f4255f6dcd94d74b633b719",
+      "username": "bernas"
+    },
+    "merkle_root": {
+      "ctime": 1539168963,
+      "hash": "23586080330e0cd3f08e09faf881dca6d12567d04b8547b2490ae40dc5eb95134b2c24d884d7a5f41e7214936ac465b579bfe0389a0d4612d64cd63ed52474f6",
+      "hash_meta": "c8366cddf077158a9fca578aa3e3d3fee81de1261a35a4c10c5f86e6e7592051",
+      "seqno": 3774219
+    },
+    "service": {
+      "entropy": "y7MtyrIubFdjSIMKKyb4Seqk",
+      "hostname": "bernas.engineer",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.7.3"
+  },
+  "ctime": 1539168969,
+  "expire_in": 504576000,
+  "prev": "f78dcdc332755fdc6ead7c274f081b730693049d5dc4add987bd2943b64188e2",
+  "seqno": 64,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgz7YLu4LhVUrT2v/MF0gGA01xt5zvzkPKbdqmuU76UfgKp3BheWxvYWTESpcCQMQg943NwzJ1X9xurXwnTwgbcwaTBJ1dxK3Zh70pQ7ZBiOLEIKwZp3MJTSr6CoiCth+QzW4kRipIZ2/eXND8rssJ5OpVAgHCo3NpZ8RAph8TNAtZOF+o7LL9o189LVelbwY18iuUvYEwcUQdnU7HKsjm7sVMFqoKw2D34WQyGFuLvQKkoBcGEfGB1R36BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBNuRx4dvjkkuhZ2w+9fuNCV0EBh0+ClhqQjzAlnCcL+o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bernas
+
+==================================================================
