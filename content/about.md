@@ -3,7 +3,8 @@ title = "About Me"
 slug = "about"
 +++
 
-* MSc Informatics Engineering Student @ University Of Minho, Portugal
+* Junior Software Engineer at Moixa (Dec 2018-)
+* Studied Informatics Engineering @ University Of Minho, Portugal (2013-2018)
 * ❤️ functional programming (Haskell, Elm, Purescript, Clojure)
 * Computer hardware enthusiast, from a very young age 🔧
 * Sports fan 🏀🏈⚽️⚾️ (COYG)
