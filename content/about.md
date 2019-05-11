@@ -5,9 +5,9 @@ slug = "about"
 
 * Junior Software Engineer @ Moixa (Dec 2018-)
 * Studied Informatics Engineering @ University Of Minho, Portugal (2013-2018)
-* ❤️ functional programming (Haskell, Elm, Purescript, Clojure)
+* ❤️ functional programming (Haskell, Purescript, Clojure)
 * Computer hardware enthusiast, from a very young age 🔧
-* Sports fan 🏀🏈⚽️⚾️ (COYG)
+* Sports fan 🏀🏈⚽️⚾️⛳ (COYG)
 
 ## Contact
 
