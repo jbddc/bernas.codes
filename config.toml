@@ -22,6 +22,8 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     # Wether you want to hide copyright and credits in the footer.
     hideCredits = true
     hideCopyright = true
+    colorscheme = "auto"
+    hidecolorschemetoggle = false
 
     # Custom CSS
 	custom_css = []
@@ -36,9 +38,9 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     weight = 2
     url = "https://twitter.com/jbddc/"
 [[params.social]]
-    name = "Keybase"
-    weight = 3
-    url = "https://www.keybase.io/bernas"
+    name = "Instagram"
+    weight = 4
+    url = "https://www.instagram.com/joaobernardocosta/"
 [[params.social]]
     name = "LinkedIn"
     weight = 4
