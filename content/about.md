@@ -6,9 +6,7 @@ slug = "about"
 * Software Engineer @ [Moixa](https://www.moixa.com) (Oct 2019-)
 * Junior Software Engineer @ [Moixa](https://www.moixa.com) (Dec 2018-Oct 2019)
 * Studied Informatics Engineering @ University Of Minho, Portugal (2013-2018)
-* ❤️ functional programming (Haskell, Typescript, Elm)
-* Computer hardware enthusiast, from a very young age 🔧
-* Sports fan 🏀🏈⚽️⚾️⛳ (COYG)
+* ❤️ fp
 
 ## Contact
 
