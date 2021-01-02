@@ -58,6 +58,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 [[menu.main]]
     name = "🫖"
     weight = 2
+    status = 418
     url = "/teapot/"
 
 [[redirects]]
