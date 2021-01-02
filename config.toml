@@ -55,3 +55,13 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     name = "About"
     weight = 2
     url = "/about/"
+[[menu.main]]
+    name = "🫖"
+    weight = 2
+    url = "/teapot/"
+
+[[redirects]]
+  force = true
+  from = "/teapot/"
+  status = 418
+  to = "/"
