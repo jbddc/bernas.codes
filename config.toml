@@ -61,8 +61,4 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     status = 418
     url = "/teapot/"
 
-[[redirects]]
-  force = true
-  from = "/teapot/"
-  status = 418
-  to = "/"
+

@@ -1,0 +1,5 @@
+[[redirects]]
+  force = true
+  from = "/teapot/"
+  status = 418
+  to = "/teapot"
