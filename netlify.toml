@@ -3,3 +3,8 @@
   from = "/teapot"
   status = 418
   to = "/"
+
+[[redirects]]
+  force = true
+  from = "/blog"
+  to = "/"
