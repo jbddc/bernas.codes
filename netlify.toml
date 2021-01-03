@@ -1,5 +1,5 @@
 [[redirects]]
   force = true
-  from = "/teapot/"
+  from = "/teapot"
   status = 418
-  to = "/teapot"
+  to = "/"
