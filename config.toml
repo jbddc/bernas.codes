@@ -30,24 +30,20 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 
 # Social links
 [[params.social]]
-    name = "Substack"
-    weight = 1
-    url = "https://bernas.substack.com"
-[[params.social]]
     name = "Github"
-    weight = 2
+    weight = 1
     url = "https://github.com/jbddc/"
 [[params.social]]
     name = "Twitter"
-    weight = 3
+    weight = 2
     url = "https://twitter.com/jbddc/"
 [[params.social]]
     name = "Instagram"
-    weight = 4
-    url = "https://www.instagram.com/joaobernardocosta/"
+    weight = 3
+    url = "https://www.instagram.com/htcpcp418/"
 [[params.social]]
     name = "LinkedIn"
-    weight = 5
+    weight = 4
     url = "https://www.linkedin.com/in/joaobernardocosta/"
 
 # Menu links
