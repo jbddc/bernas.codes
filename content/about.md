@@ -4,7 +4,7 @@ slug = "about"
 +++
 
 * Software Engineer @ [Moixa](https://www.moixa.com) (Dec 2018-)
-* Studied Informatics Engineering @ University Of Minho, Portugal (2013-2018)
+* Studied Informatics Engineering @ [University Of Minho](https://www.uminho.pt/en) (2013-2018)
 * ❤️ fp
 
 ## Contact
