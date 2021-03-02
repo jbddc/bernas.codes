@@ -3,8 +3,7 @@ title = "About Me"
 slug = "about"
 +++
 
-* Software Engineer @ [Moixa](https://www.moixa.com) (Oct 2019-)
-* Junior Software Engineer @ [Moixa](https://www.moixa.com) (Dec 2018-Oct 2019)
+* Software Engineer @ [Moixa](https://www.moixa.com) (Dec 2018-)
 * Studied Informatics Engineering @ University Of Minho, Portugal (2013-2018)
 * ❤️ fp
 
