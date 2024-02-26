@@ -1,6 +1,6 @@
 baseurl = "https://joaobernardo.diasdacosta.com/"
 languageCode = "en-US"
-title = "bernas"
+title = "João Bernardo"
 # Enable comments by entering your Disqus shortname
 theme = "coder"
 languagecode = "en" # The site’s language code.
@@ -12,10 +12,10 @@ pygmentsstyle = "b2"                 # Color-theme or style for syntax highlight
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
 
 [params] # theme parameters
-author = "João Bernardo Costa"            # Author's name.
-info = "Machine Learning Engineer"        # Author's job title or info.
-description = "Bernas's personal website" # Site description.
-keywords = "blog,developer,personal"      # Site keywords.
+author = "João Bernardo Dias da Costa"           # Author's name.
+info = "Machine Learning Engineer"               # Author's job title or info.
+description = "João Bernardo's personal website" # Site description.
+keywords = "blog,developer,personal"             # Site keywords.
 
 #disqusShortname = "yourdiscussshortname" # Enable or disable Disqus
 
