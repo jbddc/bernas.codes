@@ -1,56 +1,54 @@
-baseurl = "https://bernas.codes/"
+baseurl = "https://joaobernardo.diasdacosta.com/"
 languageCode = "en-US"
 title = "bernas"
 # Enable comments by entering your Disqus shortname
-theme="coder"
+theme = "coder"
 languagecode = "en" # The site’s language code.
 
-paginate = 20 # Default number of pages per page in pagination.
+paginate = 20       # Default number of pages per page in pagination.
 canonifyurls = true # Enable to turn relative URLs into absolute.
 
-pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
+pygmentsstyle = "b2"                 # Color-theme or style for syntax highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
 
 [params] # theme parameters
-    author = "João Bernardo Costa" # Author's name.
-    info = "Machine Learning Engineer" # Author's job title or info.
-    description = "Bernas's personal website" # Site description.
-    keywords = "blog,developer,personal" # Site keywords.
+author = "João Bernardo Costa"            # Author's name.
+info = "Machine Learning Engineer"        # Author's job title or info.
+description = "Bernas's personal website" # Site description.
+keywords = "blog,developer,personal"      # Site keywords.
 
-    #disqusShortname = "yourdiscussshortname" # Enable or disable Disqus
+#disqusShortname = "yourdiscussshortname" # Enable or disable Disqus
 
-    # Wether you want to hide copyright and credits in the footer.
-    hideCredits = true
-    hideCopyright = true
-    colorscheme = "auto"
-    hidecolorschemetoggle = false
+# Wether you want to hide copyright and credits in the footer.
+hideCredits = true
+hideCopyright = true
+colorscheme = "auto"
+hidecolorschemetoggle = false
 
-    # Custom CSS
-	custom_css = []
+# Custom CSS
+custom_css = []
 
 # Social links
 [[params.social]]
-    name = "Github"
-    weight = 1
-    url = "https://github.com/jbddc/"
+name = "Github"
+weight = 1
+url = "https://github.com/jbddc/"
 [[params.social]]
-    name = "LinkedIn"
-    weight = 4
-    url = "https://www.linkedin.com/in/joaobernardocosta/"
+name = "LinkedIn"
+weight = 4
+url = "https://www.linkedin.com/in/joaobernardocosta/"
 [[params.social]]
-    name = "Instagram"
-    weight = 2
-    url = "https://instagram.com/os.meus.rolos/"
+name = "Instagram"
+weight = 2
+url = "https://instagram.com/os.meus.rolos/"
 
 # Menu links
 [[menu.main]]
-    name = "About"
-    weight = 2
-    url = "/about/"
+name = "About"
+weight = 2
+url = "/about/"
 [[menu.main]]
-    name = "🫖"
-    weight = 2
-    status = 418
-    url = "/teapot/"
-
-
+name = "🫖"
+weight = 2
+status = 418
+url = "/teapot/"
