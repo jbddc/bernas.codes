@@ -30,8 +30,12 @@ custom_css = []
 
 # Social links
 [[params.social]]
-name = "Github"
+name = "Email"
 weight = 1
+url = "mailto:joaobernardo@diasdacosta.com"
+[[params.social]]
+name = "Github"
+weight = 2
 url = "https://github.com/jbddc/"
 [[params.social]]
 name = "LinkedIn"
