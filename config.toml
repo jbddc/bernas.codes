@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 
 [params] # theme parameters
 author = "João Bernardo Dias da Costa"           # Author's name.
-info = "Machine Learning Engineer"               # Author's job title or info.
+info = "Senior Software Engineer"               # Author's job title or info.
 description = "João Bernardo's personal website" # Site description.
 keywords = "blog,developer,personal"             # Site keywords.
 
