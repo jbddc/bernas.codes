@@ -9,3 +9,6 @@
   from = "/teapot/"
   status = 418
   to = "/"
+
+[build.environment]
+  HUGO_VERSION = "0.120.0"
